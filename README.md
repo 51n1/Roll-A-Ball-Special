@@ -12,7 +12,7 @@ A Sample Unity Project for learning on Bolt.
 
   2020.1.8f1
 
-* Needed assets & packages for this project
+* Assets & packages for this project
   * URP
   * Text Mesh Pro
   * Bolt 
@@ -24,6 +24,16 @@ Need to install Bolt package. Refer to the following link.
 https://51n1.uk/post/roll-a-ball-on-bolt-3.html
 
 When you configure Bolt, you should add "Unity.TextMeshPro" as Assembly Options if you use TextMeshPro.
+
+# Recommended Tutorial
+
+"Roll-a-Ball" at Unity Learn
+
+https://learn.unity.com/project/roll-a-ball
+
+"Unity入門チュートリアル 「玉転がし」(Roll-a-Ball) ビジュアルスクリプティング版" at Unity Learn
+
+https://learn.unity.com/project/bolt-roll-a-ball-tutorial
 
 # License
 
