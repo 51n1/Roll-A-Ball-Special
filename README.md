@@ -10,7 +10,7 @@ A Sample Unity Project for learning on Bolt.
 
 * Unity version
 
-  2020.1.8f1
+  2020.1.9f1
 
 * Assets & packages for this project
   * URP

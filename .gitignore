@@ -72,6 +72,6 @@ crashlytics-build.properties
 
 # My Lists
 /[Aa]ssets/[Ii]nstall\ Bolt/
-/[Aa]ssets/[Ii]nstall\ Bolt.meta
+#/[Aa]ssets/[Ii]nstall\ Bolt.meta
 /[Aa]ssets/[Ll]udiq/
-/[Aa]ssets/[Ll]udiq.meta
+#/[Aa]ssets/[Ll]udiq.meta
