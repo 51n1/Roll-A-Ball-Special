@@ -19,7 +19,9 @@ A Sample Unity Project for learning on Bolt.
 
 # Installation
 
-Need to install Bolt package. Refer to the following link.
+Install the required packages by Package Manager.
+
+Refer to the following link about the installation of Bolt.
 
 https://51n1.uk/post/roll-a-ball-on-bolt-3.html
 
