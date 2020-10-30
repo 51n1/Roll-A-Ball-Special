@@ -1,4 +1,4 @@
-# Roll-a-Ball-Plus-on-Bolt
+# Roll-A-Ball-Special
 
 A Sample Unity Project for learning on Bolt.
 
@@ -10,7 +10,7 @@ A Sample Unity Project for learning on Bolt.
 
 * Unity version
 
-  2020.1.9f1
+  2020.1.Xf1
 
 * Assets & packages for this project
   * URP
